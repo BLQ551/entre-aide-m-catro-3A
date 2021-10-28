@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g   -shared -Wl,-soname,libmatrices.so -o lib/Debug/libmatrices.so CMakeFiles/matrices.dir/src/matrices.cpp.o 

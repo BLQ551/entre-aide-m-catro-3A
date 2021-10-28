@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/ubs/fukuisaurus/home.1/0/e2102220/work_C/projet_1/src/leprog.cpp
+iostream
+-
+unistd.h
+-
+cstdlib
+-
+libmatrices/matrices.h
+-
+
+include/libmatrices/matrices.h
+

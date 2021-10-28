@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/my_exe.dir/src/leprog.cpp.o  -o bin/Debug/my_exe  -Llib/Debug -rdynamic lib/Debug/libmatrices.so -lncurses -Wl,-rpath,lib/Debug:/ubs/fukuisaurus/home.1/0/e2102220/work_C/projet_1/lib/Debug 
