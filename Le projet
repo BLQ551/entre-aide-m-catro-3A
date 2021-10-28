@@ -1,3 +1,8 @@
 Bonjour, l'équipe. J'espère que l'on va bien travailler
 Ouai ma gueule
 louis le connard =)
+select random-number between 1 and 3:
+if 3 then "non"
+if 2 then "oui"
+if 1 then "peut etre"
+end
